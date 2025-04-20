@@ -1,0 +1,54 @@
+h1 {
+    margin: 10px 15px 20px 25px;
+
+    background-color: seagreen;
+    border: 20px solid red;
+    padding: 5px;
+    border-style: dashed;
+    max-width: 50%;
+
+
+}
+
+.d {
+    background-color: lime;
+    margin: 10px 12px 17px 21px;
+    padding: 10px;
+    max-width: 70%;
+    border-style: ridge;
+    border: 10px solid red;
+}
+
+.d1 {
+    background-color: rgb(185, 29, 29);
+    margin: 10px 12px 17px 21px;
+    padding: 10px;
+    max-width: 70%;
+    height: 200px;
+    border-style: ridge;
+    border: 10px solid rgb(10, 7, 7);
+}
+
+.jirjir {
+    background-color: rgb(39, 206, 95);
+    margin: 10px 12px 17px 21px;
+    padding: 10px;
+    max-width: 65%;
+    height: 100px;
+    border-style: ridge;
+    border: 10px solid rgb(46, 21, 187);
+    border-top-left-radius: 160px;
+    text-align: center;
+}
+
+.jirjir2 {
+    background-color: rgb(67, 19, 179);
+    margin: 15px 12px 17px 21px;
+    padding: 10px;
+    max-width: 50%;
+    height: 100px;
+    border-style: ridge;
+    border: 10px solid rgba(233, 10, 10, 0.678);
+    border-top-right-radius: 200px;
+    text-align: center;
+}
